@@ -3,6 +3,7 @@
     "lib": ["ESNext"],
     "moduleResolution": "node",
     "noUnusedLocals": true,
+    "esModuleInterop": true,
     "noUnusedParameters": true,
     "removeComments": true,
     "sourceMap": true,
